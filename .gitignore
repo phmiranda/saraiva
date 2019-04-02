@@ -1,5 +1,11 @@
 #Jetbrains Projects IDE
 .idea/
+.vscode/
+nbproject/
+CMakeLists.txt
+*.txt
 
 # External Librarys
+cmake-build-debug/
+node_modules/
 vendor/
